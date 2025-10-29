@@ -19,6 +19,6 @@ dotnet run
 ##App Service 上で動作確認
 dotnet publish -c Release -o ./publish
 
-App Service Windows, dotnet 8.0 作成。
+App Service Windows/Linux dotnet 8.0 作成。
 publish 配下を zip して C:\home\site\wwwroot>  へデプロイ。
 
